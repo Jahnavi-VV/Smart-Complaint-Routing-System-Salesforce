@@ -70,14 +70,7 @@ Additionally, an email notification is sent to inform the concerned team, and al
 
 ## 🔄 Workflow
 
-Customer selects an existing customer record
-→ Creates a complaint
-→ System stores complaint data
-→ Flow triggers automatically
-→ Complaint type is evaluated
-→ Department is assigned
-→ Email notification is sent
-→ Complaint data is tracked in reports and dashboards
+  <img width="342" height="764" alt="image" src="https://github.com/user-attachments/assets/4f185583-3d28-4e06-97b2-6df135ffb804" />
 
 ---
 
