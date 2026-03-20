@@ -154,16 +154,31 @@ Reports include grouping by complaint type, priority, department, and location, 
 
 ---
 
-## 🧠 Key Learnings
+🧠 Key Learnings
 
-* Understanding of Salesforce data modeling
-* Designing object relationships using lookup fields
-* Implementing business logic using Flow automation
-* Building real-world CRM workflows
-* Creating dashboards for business insights
+Through this project, I gained a strong understanding of how real-world customer support systems are designed using Salesforce.
+
+Learned how to design custom objects and data models to represent business entities like Customers and Complaints.
+
+Understood how to create and use lookup relationships to connect data across objects.
+
+Gained hands-on experience with Record-Triggered Flows to automate business processes.
+
+Learned how to implement rule-based automation for assigning complaints to the correct department.
+
+Explored how to send dynamic email notifications using data from related objects.
+
+Developed skills in building reports and dashboards to analyze and visualize data.
+
+Improved my understanding of user experience design, such as hiding fields and controlling access.
+
+Learned how to think from a real-world system design perspective, not just implementation.
+
 
 ## 🏆 Conclusion
 
-This project demonstrates how Salesforce can be used to build an efficient and automated complaint management system. It improves response time, reduces manual effort, and provides better visibility into customer issues.
+The Smart Complaint Routing System demonstrates how Salesforce can be used to build an efficient and automated customer support solution.
 
-It reflects real-world CRM practices and highlights the power of automation in enhancing customer service operations.
+By automating complaint assignment and notifications, the system reduces manual effort, improves response time, and ensures that issues are handled by the right team. The integration of data modeling, automation, and analytics makes the system both functional and scalable.
+
+Overall, this project reflects real-world CRM practices and highlights the importance of automation in delivering better customer service experiences.
