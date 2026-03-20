@@ -154,25 +154,28 @@ Reports include grouping by complaint type, priority, department, and location, 
 
 ---
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 
 Through this project, I gained a strong understanding of how real-world customer support systems are designed using Salesforce.
 
-Learned how to design custom objects and data models to represent business entities like Customers and Complaints.
+* Learned how to design **custom objects and data models** to represent business entities like Customers and Complaints.
+* Understood how to create and use **lookup relationships** to connect data across objects.
+* Gained hands-on experience with **Record-Triggered Flows** to automate business processes.
+* Learned how to implement **rule-based automation** for assigning complaints to the correct department.
+* Explored how to send **dynamic email notifications** using data from related objects.
+* Developed skills in building **reports and dashboards** to analyze and visualize data.
+* Improved my understanding of **user experience design**, such as hiding fields and controlling access.
+* Learned how to think from a **real-world system design perspective**, not just implementation.
 
-Understood how to create and use lookup relationships to connect data across objects.
+---
 
-Gained hands-on experience with Record-Triggered Flows to automate business processes.
+## 🏆 Conclusion
 
-Learned how to implement rule-based automation for assigning complaints to the correct department.
+The Smart Complaint Routing System demonstrates how Salesforce can be used to build an efficient and automated customer support solution.
 
-Explored how to send dynamic email notifications using data from related objects.
+By automating complaint assignment and notifications, the system reduces manual effort, improves response time, and ensures that issues are handled by the right team. The integration of data modeling, automation, and analytics makes the system both functional and scalable.
 
-Developed skills in building reports and dashboards to analyze and visualize data.
-
-Improved my understanding of user experience design, such as hiding fields and controlling access.
-
-Learned how to think from a real-world system design perspective, not just implementation.
+Overall, this project reflects real-world CRM practices and highlights the importance of automation in delivering better customer service experiences.
 
 
 ## 🏆 Conclusion
