@@ -77,18 +77,30 @@ Additionally, an email notification is sent to inform the concerned team, and al
 ## 🧱 Data Model
 
 Customer (Object)
+
 → Customer ID (Auto Number)
+
 → Customer Name
+
 → Email
+
 → Phone Number
 
+
 Complaint (Object)
+
 → Complaint Number (Auto Number)
+
 → Customer (Lookup Relationship)
+
 → Complaint Type
+
 → Priority
+
 → Location
+
 → Description
+
 → Assigned Department
 
 ---
