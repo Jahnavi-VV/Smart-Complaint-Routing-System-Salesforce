@@ -70,7 +70,7 @@ Additionally, an email notification is sent to inform the concerned team, and al
 
 ## 🔄 Workflow
 
-  <img width="342" height="764" alt="image" src="https://github.com/user-attachments/assets/4f185583-3d28-4e06-97b2-6df135ffb804" />
+ <img width="308" height="755" alt="image" src="https://github.com/user-attachments/assets/6cf7b043-55ec-4349-b10c-945811b4b84c" />
 
 ---
 
